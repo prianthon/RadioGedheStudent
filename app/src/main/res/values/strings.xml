@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Radio Gedhe</string>
+    <string name="app_name"> Radio Gedhe</string>
     <string name="action_settings">Pengaturan</string>
-    <string name="hello_world">Sentuh logo!</string>
+    <string name="hello_world">Sentuh!</string>
     <string name="on_rs_www">Kabar terbaru:</string>
 	<string name="no_network_subtitle">Untuk streaming radio pastikan koneksi internet tersedia</string>
 	<string name="no_network_title">Tidak ada koneksi internet</string>
 	<string name="more_info">Radio Gedhe sejak Jemuah Pahing 12 Febuari 2016</string>
-	<string name="play_text">Sentuh logo!</string>
-	<string name="pause_text">Jangan sentuh logo!</string>
-	<color name="rs_rumena">#fffff000</color>
+	<string name="play_text">Sentuh!</string>
+	<string name="pause_text">Jangan sentuh!</string>
+	<color name="rs_rumena">#5BC0DE</color>
 	<color name="rs_crna">#00000000</color>
 </resources>

@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <color name="rs_crna">#00000000</color>
-    <color name="rs_rumena">#fffff000</color>
+    <color name="rs_rumena">#5BC0DE</color>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Pengaturan</string>
-    <string name="app_name">Radio Gedhe</string>
-    <string name="hello_world">Sentuh logo!</string>
+    <string name="app_name"> Radio Gedhe</string>
+    <string name="hello_world">Sentuh!</string>
     <string name="more_info">Radio Gedhe sejak Jemuah Pahing 12 Febuari 2016</string>
     <string name="no_network_subtitle">Untuk streaming radio pastikan koneksi internet tersedia</string>
     <string name="no_network_title">Tidak ada koneksi internet</string>
     <string name="on_rs_www">Kabar terbaru:</string>
-    <string name="pause_text">Jangan sentuh logo!</string>
-    <string name="play_text">Sentuh logo!</string>
+    <string name="pause_text">Jangan sentuh!</string>
+    <string name="play_text">Sentuh!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in
