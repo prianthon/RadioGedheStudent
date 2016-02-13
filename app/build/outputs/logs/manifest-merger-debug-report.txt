@@ -1,0 +1,81 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:3:5-48
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+	android:versionName
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:5:5-28
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:7:5-9:41
+	android:targetSdkVersion
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:9:9-38
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:8:9-34
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:11:2-80
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:11:19-61
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:12:2-78
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:12:19-75
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:13:2-76
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:13:19-73
+application
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:14:5-35:19
+	android:label
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:17:9-41
+	android:allowBackup
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:16:9-45
+	android:theme
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:18:9-40
+activity#com.radiogedhe.radiostudentstream.MainScreen
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:19:9-28:20
+	android:screenOrientation
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:21:13-49
+	android:label
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:20:13-72
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:26:27-74
+service#com.radiogedhe.radiostudentstream.RadioStreamService
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:29:9-96
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:29:18-85
+receiver#com.radiogedhe.radiostudentstream.NetworkStateReceiver
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:30:6-34:14
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:30:16-85
+intent-filter#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:31:7-33:23
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:32:10-72
+	android:name
+		ADDED from /Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/AndroidManifest.xml:32:18-69

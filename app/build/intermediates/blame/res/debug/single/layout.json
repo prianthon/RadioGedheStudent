@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/layout/list_row.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/layout/list_row.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/layout/no_network.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/layout/no_network.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/layout/activity_main_screen.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/layout/activity_main_screen.xml"
+    }
+]

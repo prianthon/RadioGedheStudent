@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_selector.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/list_selector.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo_dark.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/logo_dark.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/ic_launcher.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/thumb_volume.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/thumb_volume.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/list_divider.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/list_divider.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/image_bg.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/image_bg.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/crta_volume.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/crta_volume.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gradient_bg.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/gradient_bg.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/gradient_bg_hover.xml",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/gradient_bg_hover.xml"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/triangle_volume.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/triangle_volume.png"
+    },
+    {
+        "merged": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/logo_light.png",
+        "source": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/drawable-mdpi/logo_light.png"
+    }
+]
