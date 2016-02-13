@@ -4,15 +4,15 @@
     <color name="rs_rumena">#fffff000</color>
     <dimen name="activity_horizontal_margin">16dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <string name="action_settings">Settings</string>
-    <string name="app_name">Radio Študent</string>
-    <string name="hello_world">Touch me on!</string>
-    <string name="more_info">Radio Študent - alternative since 1969</string>
-    <string name="no_network_subtitle">To stream radio please make sure internet connection is available</string>
-    <string name="no_network_title">No internet connection</string>
-    <string name="on_rs_www">Recently on RŠ www:</string>
-    <string name="pause_text">Don\'t touch me!</string>
-    <string name="play_text">Touch me on!</string>
+    <string name="action_settings">Pengaturan</string>
+    <string name="app_name">Radio Gedhe</string>
+    <string name="hello_world">Sentuh logo!</string>
+    <string name="more_info">Radio Gedhe sejak Jemuah Pahing 12 Febuari 2016</string>
+    <string name="no_network_subtitle">Untuk streaming radio pastikan koneksi internet tersedia</string>
+    <string name="no_network_title">Tidak ada koneksi internet</string>
+    <string name="on_rs_www">Kabar terbaru:</string>
+    <string name="pause_text">Jangan sentuh logo!</string>
+    <string name="play_text">Sentuh logo!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

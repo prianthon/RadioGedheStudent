@@ -15,9 +15,9 @@
                     "position": {
                         "startLine": 12,
                         "startColumn": 1,
-                        "startOffset": 661,
+                        "startOffset": 663,
                         "endColumn": 40,
-                        "endOffset": 700
+                        "endOffset": 702
                     }
                 }
             },
@@ -34,9 +34,9 @@
                     "position": {
                         "startLine": 11,
                         "startColumn": 1,
-                        "startOffset": 618,
+                        "startOffset": 620,
                         "endColumn": 42,
-                        "endOffset": 659
+                        "endOffset": 661
                     }
                 }
             },
@@ -83,16 +83,16 @@
                     "startLine": 6,
                     "startColumn": 4,
                     "startOffset": 259,
-                    "endColumn": 52,
-                    "endOffset": 307
+                    "endColumn": 54,
+                    "endOffset": 309
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 106,
-                        "endColumn": 52,
+                        "startOffset": 104,
+                        "endColumn": 54,
                         "endOffset": 154
                     }
                 }
@@ -101,8 +101,8 @@
                 "to": {
                     "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 312,
-                    "endColumn": 50,
+                    "startOffset": 314,
+                    "endColumn": 48,
                     "endOffset": 358
                 },
                 "from": {
@@ -111,8 +111,8 @@
                         "startLine": 2,
                         "startColumn": 4,
                         "startOffset": 55,
-                        "endColumn": 50,
-                        "endOffset": 101
+                        "endColumn": 48,
+                        "endOffset": 99
                     }
                 }
             },
@@ -140,17 +140,17 @@
                     "startLine": 9,
                     "startColumn": 4,
                     "startOffset": 416,
-                    "endColumn": 76,
-                    "endOffset": 488
+                    "endColumn": 85,
+                    "endOffset": 497
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 1,
-                        "startOffset": 443,
-                        "endColumn": 73,
-                        "endOffset": 515
+                        "startOffset": 433,
+                        "endColumn": 82,
+                        "endOffset": 514
                     }
                 }
             },
@@ -158,8 +158,8 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 493,
-                    "endColumn": 113,
+                    "startOffset": 502,
+                    "endColumn": 104,
                     "endOffset": 602
                 },
                 "from": {
@@ -167,9 +167,9 @@
                     "position": {
                         "startLine": 6,
                         "startColumn": 1,
-                        "startOffset": 267,
-                        "endColumn": 110,
-                        "endOffset": 376
+                        "startOffset": 262,
+                        "endColumn": 101,
+                        "endOffset": 362
                     }
                 }
             },
@@ -178,17 +178,17 @@
                     "startLine": 11,
                     "startColumn": 4,
                     "startOffset": 607,
-                    "endColumn": 67,
-                    "endOffset": 670
+                    "endColumn": 71,
+                    "endOffset": 674
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 1,
-                        "startOffset": 378,
-                        "endColumn": 64,
-                        "endOffset": 441
+                        "startOffset": 364,
+                        "endColumn": 68,
+                        "endOffset": 431
                     }
                 }
             },
@@ -196,9 +196,9 @@
                 "to": {
                     "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 675,
-                    "endColumn": 57,
-                    "endOffset": 728
+                    "startOffset": 679,
+                    "endColumn": 52,
+                    "endOffset": 727
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
@@ -206,8 +206,8 @@
                         "startLine": 5,
                         "startColumn": 4,
                         "startOffset": 212,
-                        "endColumn": 57,
-                        "endOffset": 265
+                        "endColumn": 52,
+                        "endOffset": 260
                     }
                 }
             },
@@ -215,18 +215,18 @@
                 "to": {
                     "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 733,
-                    "endColumn": 55,
-                    "endOffset": 784
+                    "startOffset": 732,
+                    "endColumn": 58,
+                    "endOffset": 786
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 1,
-                        "startOffset": 565,
-                        "endColumn": 52,
-                        "endOffset": 616
+                        "startOffset": 564,
+                        "endColumn": 55,
+                        "endOffset": 618
                     }
                 }
             },
@@ -234,18 +234,18 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 789,
+                    "startOffset": 791,
                     "endColumn": 50,
-                    "endOffset": 835
+                    "endOffset": 837
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/strings.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 1,
-                        "startOffset": 517,
+                        "startOffset": 516,
                         "endColumn": 47,
-                        "endOffset": 563
+                        "endOffset": 562
                     }
                 }
             },
@@ -253,10 +253,10 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 840,
+                    "startOffset": 842,
                     "endLine": 21,
                     "endColumn": 12,
-                    "endOffset": 1126
+                    "endOffset": 1128
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/styles.xml",
@@ -274,10 +274,10 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1131,
+                    "startOffset": 1133,
                     "endLine": 24,
                     "endColumn": 12,
-                    "endOffset": 1286
+                    "endOffset": 1288
                 },
                 "from": {
                     "file": "/Users/prianton/StudioProjects/RadioStudent-Android-master/app/src/main/res/values/styles.xml",
