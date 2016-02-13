@@ -6,13 +6,13 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Pengaturan</string>
     <string name="app_name"> Radio Gedhe</string>
-    <string name="hello_world">Sentuh!</string>
-    <string name="more_info">Radio Gedhe sejak Jemuah Pahing 12 Febuari 2016</string>
+    <string name="hello_world">Sentuh logo diatas!</string>
+    <string name="more_info">Radio Gedhe sejak Jemuah Pahing 12 Febuari 2016 - ICT Gedhe Foundation</string>
     <string name="no_network_subtitle">Untuk streaming radio pastikan koneksi internet tersedia</string>
     <string name="no_network_title">Tidak ada koneksi internet</string>
-    <string name="on_rs_www">Kabar terbaru:</string>
-    <string name="pause_text">Jangan sentuh!</string>
-    <string name="play_text">Sentuh!</string>
+    <string name="on_rs_www">Artikel Gedhe:</string>
+    <string name="pause_text">Sentuh untuk diam!</string>
+    <string name="play_text">Sentuh logo diatas!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--
             Theme customizations available in newer API levels can go in

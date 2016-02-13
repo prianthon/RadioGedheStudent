@@ -55,7 +55,8 @@ public class MainScreen extends Activity {
 	private final Activity a = this;
 	private JSONArray jsonFeed;
 	private Vector<String[]> feedNodes = new Vector<String[]>();
-    private final String RS_FEED = "http://radiostudent.si/json-mobile";
+    private final String RS_FEED = "http://gedhe.or.id/wp-json/posts";
+	//private final String RS_FEED = "http://radiostudent.si/json-mobile";
 	
     private PlayServiceReceiver receiver_playing;
     private NetworkStateListener receiver_network;
